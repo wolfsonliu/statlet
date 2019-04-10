@@ -1,0 +1,3 @@
+# statlet #
+
+Useful statistic functions.
